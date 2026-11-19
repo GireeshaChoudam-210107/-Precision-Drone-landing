@@ -1,0 +1,6 @@
+{
+  "name": "Drone Landing Lab",
+  "description": "Interactive browser-based reinforcement learning lab teaching policy gradients through a 2D drone landing simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
